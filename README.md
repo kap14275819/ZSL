@@ -30,4 +30,4 @@
 #### The game play experience is not dependant on sound and as such the game does not require speakers of any kind.
 
 ## Schedule:
-![Gant Chart]()
+![Gant Chart](https://github.com/kap14275819/ZSL/blob/master/gant%20chart.png)
