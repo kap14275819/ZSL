@@ -10,9 +10,24 @@
 #### The genre of the game is an educational interactive tell-tale game.
 
 ## Features:
-#### •	2D game
-#### •	Team play
-#### •	Visual feedback
-#### •	Educational
-#### •	Interactive
-#### •	Tell-tale
+### •	2D game
+### •	Team play
+### •	Visual feedback
+### •	Educational
+### •	Interactive
+### •	Tell-tale
+
+## Platform:
+#### This game will be a web-based application, designed for use with on an Apple iPad using iOS 10.3.3.
+
+## Intended Audience:
+#### The intended audience of this game is for casual or non-gamers of both genders from the age of 11 to 16, however the primary age range is 11 to 12 years old. 
+
+## Language:
+#### The game will only be in English
+
+## Sound Consideration:
+#### The game play experience is not dependant on sound and as such the game does not require speakers of any kind.
+
+## Schedule:
+![Gant Chart]()
