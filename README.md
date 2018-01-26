@@ -32,4 +32,7 @@
 ## Schedule:
 ![Gant Chart](https://github.com/kap14275819/ZSL/blob/master/gant%20chart.png)
 
+## Review:
+#### The project was a good challenge for us as we had a lot of ups and downs which created some problems which were then fixed. So the pros about this project is that it gave a good amount of experience on different software such as unity. Using this software has expanded are knowledge on creating new games in the future and we will already understand how to use the software becuase of this project. Another reason is that it has given us an idea of how to understand a clients requirements, because during the planning we looked at the requirements and planned on different ideas which then the client didn't like as to what they visioned it would be. So overall the project went well and we understood what had to be done in the end as showed prototypes of the project and the client then agreed on it. I personally think that it was a good effort in the end as we had many ideas which then led to a great idea and we worked well in a team and all stuck to our jobs to what had to be made and i think that it was fun and challenging experience.
+
 
