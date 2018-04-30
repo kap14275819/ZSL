@@ -123,6 +123,7 @@
 ![photoshop](https://github.com/kap14275819/ZSL/blob/master/photoshop.PNG)
 ### PowerPoint
 #### PowerPoint was only used for our presentations, this was to present our concept designs and ideas that we thought of on one of the first pitch meetings we had with the ZSL representatives. This was also used to show the final look and design on PowerPoint. We showed are finished design and how we adapted to feedback. The reason we used PowerPoint was that it is the simplest and best presentation software out there. We also used PowerPoint online so all four of us could work on different slides for the certain parts of work that each person did.
+#### This is a link to a google slides which shows the presentation that was used for one of the meetings in the project:
 https://docs.google.com/presentation/d/1IOegb4ybkjDdYNkHyYtOlcA6BDotrsn-2zseRPsYzSA/edit?usp=sharing 
 ## Techniques
 ### Interviews
