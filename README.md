@@ -52,7 +52,7 @@
 #### These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently when delivering out training event within ZSL.
 
 ### Project Management Plan
-#### This part of the document specifies a plan for the development of the game and outlines the resources and schedule that will be included within the development. It will be subject to change during the game's development. The plan is based of the objectives and aims in the previous section. 
+#### This part of the document specifies a plan for the development of the game and outlines the resources and schedule that will be included within the development. It will be subject to change during the game's development. The plan is based of the objectives and aims in the previous section. When designing the game, there are many aspects when looking at the different stages of completion that need to be looked at before starting the development plan, here are the aspects of the game I have to look at.
 
 ### Cost:
 #### The first thing that was looked upon is the time, since this project was for a competition which means the work we were doing was for free, so the cost of our time equalled to £0. Secondly, the items that 'cost' money was the systems that were used to creat the app. So in order for use to develop the application, we needed to have a system which exceeded our needs and requirements. The systems that were used at college are roughly around £1500 each. This brings the cost up to £6000 as they're 4 of us within the group.
@@ -77,11 +77,11 @@
 
 ### Resources:
 #### A number of resources were used to complete the project:
-#### 1. System/PC
-#### 2. Internet Access
-#### 3. Unity Pro
-#### 4. Adobe(Software)
-#### 5. Microsft Office (Word, PowerPoint)
+#### 1. System/PC: At least a decent computer must be used in order help with the development of the game. The computer must be matching the minimum requirements of the software that will be used during development and to make sure that it can run well without issues.
+#### 2. Internet Access: Internet access will absolutely necessary because research will be carried out in this project; secondary research by reading articles and webpages and primary research with web serveys and such. This will also be used to keep track of analytics of players in multiplayer games and to test the multiplayer portion of the game, as well as eventual publishing of the game.
+#### 3. Unity Pro: The game will be developed in unity, reasons being that I have past experience of using the engine and that it has features that can help me with developing the game. Also the software is must easier to use and allows to do certain tasks which are easier on here than on other software or IDEs.
+#### 4. Adobe(Software): Most of the adobe software was used for some part of the application Photoshop and Animate CC which was used to create the animations and graphics that were used within the project.
+#### 5. Microsft Office (Word, PowerPoint): These two pieces of software were used for the documentation of the project and the presentations that were used when we had meetings with the client. 
 
 ## Schedule:
 ![Gant Chart](https://github.com/kap14275819/ZSL/blob/master/gant%20chart.png)
