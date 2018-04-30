@@ -137,7 +137,7 @@ https://docs.google.com/presentation/d/1IOegb4ybkjDdYNkHyYtOlcA6BDotrsn-2zseRPsY
 
 ### Management 
 #### We used SCRUM to manage our workload and to break down the tasks that have been given to us so that we are able spread work to each of the group members to ease the load. This helped as it allowed us to finish multiple tasks at one time and it was faster as we did not have to work on each task one at a time which then might waste more time overall.
-
+## Software Investigation
 ## First Client Meeting (2nd October 2017)
 #### The first time we met the client was on the 2nd of October, a representative from ZSL came into the college to give a presentation on what they roughly want within the game. This included some of the requirements that had to be within the game, such as what the game should look like, the genre of the game, target audience and how much time there given to complete the whole game.
 
