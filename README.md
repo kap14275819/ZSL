@@ -123,7 +123,7 @@
 
 ### PowerPoint
 #### PowerPoint was only used for our presentations, this was to present our concept designs and ideas that we thought of on one of the first pitch meetings we had with the ZSL representatives. This was also used to show the final look and design on PowerPoint. We showed are finished design and how we adapted to feedback. The reason we used PowerPoint was that it is the simplest and best presentation software out there. We also used PowerPoint online so all four of us could work on different slides for the certain parts of work that each person did.
-https://drive.google.com/drive/folders/0By_UMs2wIHEqY0ktTzhMMVpxUXc 
+https://docs.google.com/presentation/d/1IOegb4ybkjDdYNkHyYtOlcA6BDotrsn-2zseRPsYzSA/edit?usp=sharing 
 ## Techniques
 ### Interviews
 #### Multiple interviews with ZSL. The first one was with a ZSL representative Michelle who came in to explain the project that she wanted for us to work on. We all took notes so that we could get more information from what she was saying as well as off the PowerPoint she used to present out some of the information. The other interviews we had was when we presented our concept designs and ideas and then the final interview which was showing the completion of the whole game. 
@@ -135,7 +135,7 @@ https://drive.google.com/drive/folders/0By_UMs2wIHEqY0ktTzhMMVpxUXc
 #### We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across
 
 ### Management 
-#### We used SCRUM to manage our workload and to break down the tasks that have been given to us so that we are able 
+#### We used SCRUM to manage our workload and to break down the tasks that have been given to us so that we are able spread work to each of the group members to ease the load. This helped as it allowed us to finish multiple tasks at one time and it was faster as we did not have to work on each task one at a time which then might waste more time overall.
 
 ## First Client Meeting (2nd October 2017)
 #### The first time we met the client was on the 2nd of October, a representative from ZSL came into the college to give a presentation on what they roughly want within the game. This included some of the requirements that had to be within the game, such as what the game should look like, the genre of the game, target audience and how much time there given to complete the whole game.
