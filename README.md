@@ -39,16 +39,20 @@
 #### We have been contacted by the Zoological Society of London (ZSL) and they have asked us to design and produce an educational game that is based around the greenhouse chain that have 4 products (Plastic bottles, Mobile Phones, Beef and Electronics left on stand-by) which affect these 4 habitats (Ocean, Rainforest, Countryside, Artic Tundra). This game can be used and accessable by anyone but will be mainly used in classes that the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. Regular meetings will be held with the client so that information and feedback can be given on some of ideas and on anything they would want to change so that the client can be satisfied. 
 
 ### Aims: 
-#### 1. Create an enjoyable game
-#### 2. Have interactivity within the game
-#### 3. Make it educational
-#### 4. Raise awareness in the game
+#### 1. Create an enjoyable game that is suitable for the ages of 11-16years 
+#### 2. Have interactive menu that can easily navigate within the game
+#### 3. Make it educational, which also include the facts that are correct and would suit the prupose of the application
+#### 4. Raise awareness in the game so that when they complete it they will be aware of these hazards
+#### 5. Implement a clear pledge system within the application
 
 ### Objectives:
-#### 1. Complete design documentation by Monday 16th October 2017
-#### 2. Complete proposal documentation by Monday 16th October 2017
-#### 3. Complete the development of the game by Sunday 28th October 2017
-#### 4. Test game and check if ready for presentation to the client by Monday 6th November 2017
+#### 1. Research the main facts for each of the habitats that suit the purpose of the game
+#### 2. Research and find a suitable style of graphics/assets that will be part of the application
+#### 3. Find a suitable software or IDE that will help in building the application
+#### 4. Research correct techniques that is related to the software or IDE used to build the interactive menu
+#### 5. Create a list of pledges that will be used, that are related to each fot he habitats within the game
+
+#### These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently when delivering out training event within ZSL.
 
 ### Cost:
 #### The first thing that was looked upon is the time, since this project was for a competition which means the work we were doing was for free, so the cost of our time equalled to £0. Secondly, the items that 'cost' money was the systems that were used to creat the app. So in order for use to develop the application, we needed to have a system which exceeded our needs and requirements. The systems that were used at college are roughly around £1500 each. This brings the cost up to £6000 as they're 4 of us within the group.
