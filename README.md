@@ -51,7 +51,7 @@
 
 #### These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently when delivering out training event within ZSL.
 
-### Project Management Plan
+## Project Management Plan
 #### This part of the document specifies a plan for the development of the game and outlines the resources and schedule that will be included within the development. It will be subject to change during the game's development. The plan is based of the objectives and aims in the previous section. When designing the game, there are many aspects when looking at the different stages of completion that need to be looked at before starting the development plan, here are the aspects of the game I have to look at.
 
 ### Cost:
