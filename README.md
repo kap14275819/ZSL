@@ -29,9 +29,6 @@
 ## Sound Consideration:
 #### The game play experience is not dependant on sound and as such the game does not require speakers of any kind.
 
-## Schedule:
-![Gant Chart](https://github.com/kap14275819/ZSL/blob/master/gant%20chart.png)
-
 
 ## Project Management Documentation
 ### Project Overview
@@ -53,6 +50,9 @@
 #### 5. Create a list of pledges that will be used, that are related to each fot he habitats within the game
 
 #### These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently when delivering out training event within ZSL.
+
+### Project Management Plan
+#### This part of the document specifies a plan for the development of the game and outlines the resources and schedule that will be included within the development. It will be subject to change during the game's development. The plan is based of the objectives and aims in the previous section. 
 
 ### Cost:
 #### The first thing that was looked upon is the time, since this project was for a competition which means the work we were doing was for free, so the cost of our time equalled to £0. Secondly, the items that 'cost' money was the systems that were used to creat the app. So in order for use to develop the application, we needed to have a system which exceeded our needs and requirements. The systems that were used at college are roughly around £1500 each. This brings the cost up to £6000 as they're 4 of us within the group.
@@ -82,6 +82,9 @@
 #### 3. Unity Pro
 #### 4. Adobe(Software)
 #### 5. Microsft Office (Word, PowerPoint)
+
+## Schedule:
+![Gant Chart](https://github.com/kap14275819/ZSL/blob/master/gant%20chart.png)
 
 ## Critical Reasoning on the ZSL project
 #### The reasons on why we first chose to do this project was because that we wanted to expand our mindset on other types of software and to expand our knowledge on how clients would specificly like their type of game to look like. This gave us good experience which can be used in future projects with other clients as we will understand much better than before. This porject with ZSL was also done on IOS which was a slight push back as it had a few restraints on our work as some parts of the game would have been inaccessable. The reason it was done on IOS also is that the ZSL clients only had IOS devices to support the game on which was a challenge but we knew how to overcome that later on. This had to be on a mobile app because ZSL wanted the game to be used easily and so that the audience would understand it much faster than using computers or other devices. Also this had to be on a mobile device because the only devices they had to have the game running was those. This device was also good for the audience which was for 11-16 year olds which would understand how to use them much easier than other certain devices. Doing this project on this device means that other people who are not visiting any of the ZSL zoo's and are just visiting the website would be able to access this game on their tablets or mobile phones or even on their PC which will allow them to try it out also. This can be used for teachers in schools which they can use for their students to go through the game to help them learn about the greenhouse gas chain. The audience for this project was for 11-16 year olds this was because if school attended one of these zoo's they would also have an experience in doing this game within the zoo. One of the staff members would have one of the classes to try out the game and to test their knowledge on this subject. This project was all about the environment and greenhouse gases, the reason why was because the idea of the game was to look at how the world is becoming polluted by the certain types of industries. So the project had to be about the four habitats which was the countryside, the tundra, the ocean and the rainforest. These four habitats have certain industries destroying the landscape and creating pollution. So this had to be shown to the children to show them what can be done to stop this type of destruction.
