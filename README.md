@@ -114,13 +114,13 @@
 ## Tools
 ### Photoshop
 #### Photoshop was used in our project to create the characters that the player would choose at the beginning of the game which will represent them for the rest of the game. We also used Photoshop to edit some of the background on the four habitats and some of assets that were used in the game. This saved us some money instead of buying everything from the web which some were quite expensive. We also used Photoshop to create the maze in are first prototype of our game. 
-
+![photoshop](https://github.com/kap14275819/ZSL/blob/master/photoshop.PNG)
 ### GitHub
 #### We used GitHub quite a lot to have most of our documentation shared between all of us so when we are not in class this can be uploaded and used by our whole group at home to then also modify it. This helped to keep backup of our work so that in case it was lost on someone’s drive then we knew there is a backup on GitHub. 
 
 ### Unity
 #### Unity was a huge help to us as it was used to create the application. Unity was one of the best choices to use as it had functions which allowed multiple members of the group modify parts of the game and then shared between everyone in the group. This helped complete the application in a much faster pace as multiple members were involved in the process. It was a very easy to use tool and has a huge range of assets that could have been used.
-![photoshop](https://github.com/kap14275819/ZSL/blob/master/photoshop.PNG)
+
 ### PowerPoint
 #### PowerPoint was only used for our presentations, this was to present our concept designs and ideas that we thought of on one of the first pitch meetings we had with the ZSL representatives. This was also used to show the final look and design on PowerPoint. We showed are finished design and how we adapted to feedback. The reason we used PowerPoint was that it is the simplest and best presentation software out there. We also used PowerPoint online so all four of us could work on different slides for the certain parts of work that each person did.
 #### This is a link to a google slides which shows the presentation that was used for one of the meetings in the project:
