@@ -120,7 +120,7 @@
 
 ### Unity
 #### Unity was a huge help to us as it was used to create the application. Unity was one of the best choices to use as it had functions which allowed multiple members of the group modify parts of the game and then shared between everyone in the group. This helped complete the application in a much faster pace as multiple members were involved in the process. It was a very easy to use tool and has a huge range of assets that could have been used.
-
+![photoshop](https://github.com/kap14275819/ZSL/blob/master/photoshop.PNG)
 ### PowerPoint
 #### PowerPoint was only used for our presentations, this was to present our concept designs and ideas that we thought of on one of the first pitch meetings we had with the ZSL representatives. This was also used to show the final look and design on PowerPoint. We showed are finished design and how we adapted to feedback. The reason we used PowerPoint was that it is the simplest and best presentation software out there. We also used PowerPoint online so all four of us could work on different slides for the certain parts of work that each person did.
 https://docs.google.com/presentation/d/1IOegb4ybkjDdYNkHyYtOlcA6BDotrsn-2zseRPsYzSA/edit?usp=sharing 
