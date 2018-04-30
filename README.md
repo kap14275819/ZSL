@@ -3,13 +3,13 @@
 ## Introduction:
 #### In this 2D web application game, players will build the greenhouse gas footprint chain for four products; mobile phones, beef, leaving electronic devices on standby and plastic bottles by identifying the next steps in the chain using a tell-tale game method. Players will have three choices on which step they believe comes next in the chain, and will obtain points for every correct answer. A habitat animal narrator will guide players through the journey, providing the correct sequence of events and educational facts for enhanced learning. At the end of the game, players will have the opportunity to provide a pledge on how they promise to try and help.
 
-## Objective of the Game:
+### Objective of the Game:
 #### The objective of the game is for each team to complete the greenhouse gas footprint chain for the four products in a fun and interactive way. 
 
-## Genre:
+### Genre:
 #### The genre of the game is an educational interactive tell-tale game.
 
-## Features:
+### Features:
 ### •	2D game
 ### •	Team play
 ### •	Visual feedback
@@ -17,20 +17,40 @@
 ### •	Interactive
 ### •	Tell-tale
 
-## Platform:
+### Platform:
 #### This game will be a web-based application, designed for use with on an Apple iPad using iOS 10.3.3.
 
-## Intended Audience:
+### Intended Audience:
 #### The intended audience of this game is for casual or non-gamers of both genders from the age of 11 to 16, however the primary age range is 11 to 12 years old. 
 
-## Language:
+### Language:
 #### The game will only be in English
 
-## Sound Consideration:
+### Sound Consideration:
 #### The game play experience is not dependant on sound and as such the game does not require speakers of any kind.
 
+### Scope
+#### This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Eco Warriors”. The App is for a target age of 11-16 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
 ## Project Management Documentation
+#### Since this project has a large scope, a plan had to be thought of by breaking up the tasks in order to focus on individual sections of the project. In order to do this we have spilt up the porject requirements into epics and user stories, this meant that the project was able to be looked at from the small tasks rather than the entire project as a whole. Doing this idea allowed us to look at the requirements for the user and also the software requirements within the project. Having the tasks seperated allowed us to focus on each task individually and would make the project much easier.
+
+## Epics
+
+Epics are usually a task or problem that outlines the big tasks within the project, these can be broken down into stories that can help solve the problem down by looking at the individual smaller problems in the epic. User stories are epics that have been broken down into smaller tasks.
+
+For example a project will be to build a car, the epics would be to build an engine, framework, tyres etc. The stories of the framework epic would be small tasks to help it be successful. For example I want to be able to fit 4 people in the car, this means that when planning it the teamm will look at this and make sure it is the right size. Another story could be I want the car to look nice, so the team will spend the next bit of time working on that specific point to make sure it meets a user's needs.
+
+The epic of the project was to design an application that would be able to meet the users requirements to a certain standard. Because of this it meant that each requirement had to be looked at individually. This is where user stories where made, some examples of the user stories that were made was:
+
+I want to be able to navigate the menu by clicking onto it,
+
+I want to be able to go to whichever habitat in any order I want,
+
+I want to be able to have an option that tells me what to do in case I don't understand,
+
+With these stories and many more we were able to have a look at all the user requirements and put them in their own tasks, which made us focus more on the individual tasks that were important to the requirements of the user and know exactly what software we needed to use in order to help us achieve them. Becuase of these stories and epics we were able to manage our time and efficiency onto what the user needed instead of what the team think are good to have.
+
 ### Project Overview
 #### Matthew Kaptur, Codrin Axnite, Daniel Edson, Oliver Slape
 #### We have been contacted by the Zoological Society of London (ZSL) and they have asked us to design and produce an educational game that is based around the greenhouse chain that have 4 products (Plastic bottles, Mobile Phones, Beef and Electronics left on stand-by) which affect these 4 habitats (Ocean, Rainforest, Countryside, Artic Tundra). This game can be used and accessable by anyone but will be mainly used in classes that the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. Regular meetings will be held with the client so that information and feedback can be given on some of ideas and on anything they would want to change so that the client can be satisfied. 
@@ -89,6 +109,8 @@
 
 ### Burndown Chart
 ![burndown chart](https://github.com/kap14275819/ZSL/blob/master/burndown%20chart.PNG)
+#### This shows how the project went in terms of tasks to time when completing the project, the straight line was the predicted or required work to be done within the project and the other line is the pace we went at during the project in comparison to the predicted pace of the project.
+
 ## Critical Reasoning on the ZSL project
 #### The reasons on why we first chose to do this project was because that we wanted to expand our mindset on other types of software and to expand our knowledge on how clients would specificly like their type of game to look like. This gave us good experience which can be used in future projects with other clients as we will understand much better than before. This porject with ZSL was also done on IOS which was a slight push back as it had a few restraints on our work as some parts of the game would have been inaccessable. The reason it was done on IOS also is that the ZSL clients only had IOS devices to support the game on which was a challenge but we knew how to overcome that later on. This had to be on a mobile app because ZSL wanted the game to be used easily and so that the audience would understand it much faster than using computers or other devices. Also this had to be on a mobile device because the only devices they had to have the game running was those. This device was also good for the audience which was for 11-16 year olds which would understand how to use them much easier than other certain devices. Doing this project on this device means that other people who are not visiting any of the ZSL zoo's and are just visiting the website would be able to access this game on their tablets or mobile phones or even on their PC which will allow them to try it out also. This can be used for teachers in schools which they can use for their students to go through the game to help them learn about the greenhouse gas chain. The audience for this project was for 11-16 year olds this was because if school attended one of these zoo's they would also have an experience in doing this game within the zoo. One of the staff members would have one of the classes to try out the game and to test their knowledge on this subject. This project was all about the environment and greenhouse gases, the reason why was because the idea of the game was to look at how the world is becoming polluted by the certain types of industries. So the project had to be about the four habitats which was the countryside, the tundra, the ocean and the rainforest. These four habitats have certain industries destroying the landscape and creating pollution. So this had to be shown to the children to show them what can be done to stop this type of destruction.
 
